@@ -1,6 +1,7 @@
 # Movie-recommendation-and-clustering
 
 This repo solves two questions:
+
 1.Investigate recommender performance for different user groups.
 Implementing alternating least squares (ALS) to recommend movies for hot users (users frequently rating movies) and cold users (users rarely rating movies) and examine the evaluation results.
 
