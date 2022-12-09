@@ -104,5 +104,5 @@ for index in range(len(splits)):
 print(hot_rmses)
 print(cool_rmses)
 print(output_tags)
-plt.savefig("Output/Assignment2_Part2_ALS.png")
+plt.savefig("Output/RMSE.png")
 spark.stop()
